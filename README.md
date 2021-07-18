@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @descodess.
-- 👀 I’m interested in a peaceful future.
+- 👀 I’m interested in open source – and a peaceful future.
 - 💞️ I’m happy if I can contribute.
 <!--
 - 🌱 I’m currently learning ...
